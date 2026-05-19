@@ -1,4 +1,4 @@
-# Global-Unicorn-Startups-SQL-Data-Analysis-Project
+# Global Unicorn Startups SQL Data Analysis Project
 
 This project analyzes global unicorn startups using PostgreSQL.
 
@@ -89,12 +89,15 @@ Performed multiple cleaning and transformation steps:
 
 ## Key Insights
 
-- Fintech and Internet Software dominate the unicorn ecosystem
-- The United States leads globally in unicorn creation
-- Higher investor backing generally correlates with higher valuations
-- Unicorn creation accelerated massively after 2018
-- Some startups achieved valuations far above their industry averages
-- India shows strong concentration in fintech and ecommerce sectors
+- 2021 was the unicorn boom year, with 453 companies becoming unicorns in a single year — more than all previous years combined.
+
+- More investors generally correlated with higher valuations and faster growth. Companies with 45+ investors averaged $8.56B valuations vs $1.93B for companies with 5 or fewer investors.
+
+- Artificial Intelligence companies significantly outperformed industry averages. Despite having fewer unicorns overall, the sector produced some of the highest valuations, led by ByteDance at 34x its industry average.
+
+- India's edtech sector showed stronger average valuations than the US, averaging $5.16B compared to $2.64B.
+
+- More funding did not always result in faster unicorn creation. The relationship was non linear, with the $1.2B–$1.5B funding range producing the fastest unicorns on average.
 
 ## Future Improvements
 
