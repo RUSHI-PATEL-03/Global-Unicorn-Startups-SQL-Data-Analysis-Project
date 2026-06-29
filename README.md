@@ -1,4 +1,4 @@
-# Global Unicorn Startups SQL Data Analysis Project
+# Global Unicorn Startups Data Analysis Project | SQL & Excel
 
 This project analyzes global unicorn startups using PostgreSQL.
 
@@ -37,6 +37,11 @@ The dataset contains information about:
 - CASE Statements
 - FILTER Clauses
 - Data Cleaning Techniques
+- Excel
+- Power Query
+- Power Pivot
+- DAX
+- PivotTables
 
 ## Data Cleaning Process
 
@@ -99,10 +104,13 @@ Performed multiple cleaning and transformation steps:
 
 - More funding did not always result in faster unicorn creation. The relationship was non linear, with the $1.2B–$1.5B funding range producing the fastest unicorns on average.
 
+## Excel Dashboard
+
+The SQL analysis was rebuilt as an interactive Excel dashboard — translating the CTEs and window functions above into Power Query transformations, PivotTables, and DAX measures. The dashboard includes 6 charts, 4 KPI cards, and an industry slicer for non-technical stakeholders.
+
+<img width="1607" height="882" alt="Screenshot 2026-06-28 213012" src="https://github.com/user-attachments/assets/6008fd7f-f237-43bf-ab13-f98f5f8aa0eb" />
+
+
 ## Future Improvements
 
 - Build Power BI dashboard on top of cleaned SQL data
-- Add time-series forecasting
-- Perform investor network analysis
-- Add startup success prediction models
-- Create interactive visualizations
